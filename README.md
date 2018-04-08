@@ -3,7 +3,7 @@
 Video Demos are avaliable at: https://pan.baidu.com/s/1GtAfDV-977LGhMCXiDRWtA   
 
 
-# A New Target-specific Object Proposal Generation Method for Visual Tracking
+# A New Target-specific Object Proposal Generation Method for Visual Tracking, IEEE transactions on cybernetics
 
 Video Demos for Target-specific Object Proposal Generation Method (TOPG) are avaliable at:https://pan.baidu.com/s/1jWPO6WEtDwP_3xE5tFA8KQ
 
