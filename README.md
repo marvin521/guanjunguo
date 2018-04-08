@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Object Object discovery via cohesion measurement G Guo, H Wang, WL Zhao, Y Yan, X Li IEEE transactions on cybernetics 48 (3), 862-875
 
-You can use the [editor on GitHub](https://github.com/marvin521/guanjunguo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Video Demos are avaliable at: https://pan.baidu.com/s/1GtAfDV-977LGhMCXiDRWtA   
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# A New Target-specific Object Proposal Generation Method for Visual Tracking
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Video Demos for Target-specific Object Proposal Generation Method (TOPG) are avaliable at:https://pan.baidu.com/s/1jWPO6WEtDwP_3xE5tFA8KQ
 
-```markdown
-Syntax highlighted code block
+Video Demos for TOPG based Tracker are avaliable at:https://pan.baidu.com/s/1QA_SKVhI-3VbV2oOOQNU4Q
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# A Fast Face Detection Method via Convolutional Neural Network, Neurocomputing, 2018.
+Video Demos are avaliable at: https://pan.baidu.com/s/1o7csCYAfFyAdFMSzUICO7g
+This video contains face detection, face recognition and face retrieval.   Face recongtion Accracy: 99.2% on LFW dataset. Retrieval speed: 20-30ms on  1 million face images.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marvin521/guanjunguo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#Automatic Image Cropping for Visual Aesthetic Enhancement Using Deep Neural Networks and Cascaded Regression, TMM, 2018.
+Video Demos: TBN
