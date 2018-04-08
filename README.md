@@ -15,5 +15,5 @@ Video Demos are avaliable at: https://pan.baidu.com/s/1o7csCYAfFyAdFMSzUICO7g
 This video contains face detection, face recognition and face retrieval.   Face recongtion Accracy: 99.2% on LFW dataset. Retrieval speed: 20-30ms on  1 million face images.
 
 
-#Automatic Image Cropping for Visual Aesthetic Enhancement Using Deep Neural Networks and Cascaded Regression, TMM, 2018.
+# Automatic Image Cropping for Visual Aesthetic Enhancement Using Deep Neural Networks and Cascaded Regression, TMM, 2018.
 Video Demos: TBN
