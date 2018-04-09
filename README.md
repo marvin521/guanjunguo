@@ -16,4 +16,4 @@ This video contains face detection, face recognition and face retrieval.   Face 
 
 
 # Automatic Image Cropping for Visual Aesthetic Enhancement Using Deep Neural Networks and Cascaded Regression, TMM, 2018.
-Video Demos: TBN
+Video Demos: TBA
